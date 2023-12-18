@@ -1,0 +1,11 @@
+# Use an official PHP image as the base image
+FROM php:7.4-apache
+
+# Copy your PHP application files to the container
+COPY src/ /var/www/html/
+
+# Install mysqli extension
+RUN docker-php-ext-install mysqli
+
+# Set permissions for Apache
+RUN chown -R www-data:www-data /var/www/html/
