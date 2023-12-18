@@ -5,7 +5,7 @@ This code is designed to create a container image for a Helpdesk Ticketing syste
 
 ## Getting Started
 1. Install Docker: [Docker Installation Guide](https://docs.docker.com/get-docker/)
-2. Clone this repository: `git clone https://github.com/GTR8-NJIT/Help-Desk-Ticketing-System.git’
+2. Clone this repository: `git clone https://github.com/GTR8-NJIT/Help-Desk-Ticketing-System.git](https://github.com/GTR8-NJIT/NJ610-Final.git)`
 3. Navigate to the project directory: `cd Help_Desk`
 4. Start the Docker containers: `docker-compose up -d`
 
