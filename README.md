@@ -19,6 +19,9 @@ $username = "helpdesk_user";
 $password = "helpdesk_password";
 $dbname = "helpdesk_db";
 
+### Sample User Data
+username: user1 and password: password1; username: user2 and password: password2; username: user3 and password: password3
+
 ## Notes
 
 - Ensure Docker is running before starting the containers.
