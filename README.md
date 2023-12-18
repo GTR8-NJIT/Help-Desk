@@ -19,8 +19,10 @@ $username = "helpdesk_user";
 $password = "helpdesk_password";
 $dbname = "helpdesk_db";
 
-### Sample User Data
-username: user1 and password: password1; username: user2 and password: password2; username: user3 and password: password3
+### Sample User Data Credentials 
+Username: user1 and Password: password1
+Username: user2 and Password: password2
+Username: user3 and Password: password3
 
 ## Notes
 
